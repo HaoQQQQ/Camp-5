@@ -19,9 +19,6 @@
 
 ![營地細節](https://github.com/HaoQQQQ/Camp-5/blob/c27e5baf6cefa53197679234e985408b255817ca/images/campDetail.png)
 
-### 購物車
-
-![購物車](https://user-images.githubusercontent.com/95270456/159331100-4e6de4f9-1d1f-4748-9360-7880aad63faa.png)
 
 ### 訂房資訊
 
